@@ -33,7 +33,7 @@ const ProfilePage = () => {
             <FaInstagram className="text-xl mr-2" /> Instagram
           </a>
           <a
-            href="https://www.tiktok.com/@ahmed_sadek?_t=8pTQkT8ZRot&_r=1"
+            href="https://www.tiktok.com/@_ahmed_sadek_?_t=8pTQkT8ZRot&_r=1"
             className="flex items-center justify-center w-full text-lg font-semibold bg-gray-700 hover:bg-green hover:text-black py-2 px-4 rounded-md"
           >
             <FaTiktok className="text-xl mr-2" /> TikTok
