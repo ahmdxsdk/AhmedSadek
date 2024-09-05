@@ -1,7 +1,7 @@
 import React from 'react';
 import '../index.css'; 
 import ProfileImage from '../assets/avatar-memo.jpeg';
-import { FaFacebook, FaInstagram, FaTwitter, FaWhatsapp, FaTelegram } from 'react-icons/fa'; // استيراد الأيقونات
+import { FaFacebook, FaInstagram, FaTwitter, FaWhatsapp, FaTelegram, FaTiktok, FaSnapchat } from 'react-icons/fa'; // استيراد الأيقونات
 
 const ProfilePage = () => {
   return (
@@ -33,10 +33,16 @@ const ProfilePage = () => {
             <FaInstagram className="text-xl mr-2" /> Instagram
           </a>
           <a
-            href="#"
+            href="https://www.tiktok.com/@ahmed_sadek?_t=8pTQkT8ZRot&_r=1"
             className="flex items-center justify-center w-full text-lg font-semibold bg-gray-700 hover:bg-green hover:text-black py-2 px-4 rounded-md"
           >
-            <FaTwitter className="text-xl mr-2" /> Twitter
+            <FaTiktok className="text-xl mr-2" /> TikTok
+          </a>
+          <a
+            href="https://snapchat.com/t/b7YY1dG4"
+            className="flex items-center justify-center w-full text-lg font-semibold bg-gray-700 hover:bg-green hover:text-black py-2 px-4 rounded-md"
+          >
+            <FaSnapchat className="text-xl mr-2" /> Snapchat
           </a>
           <a
             href="https://wa.me/+201278352660"
