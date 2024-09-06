@@ -51,7 +51,7 @@ const ProfilePage = () => {
             <FaWhatsapp className="text-xl mr-2" /> WhatsApp
           </a>
           <a
-            href="https://t.me/@Memo_Sadek"
+            href="https://t.me/Memo_Sadeq"
             className="flex items-center justify-center w-full text-lg font-semibold bg-gray-700 hover:bg-green hover:text-black py-2 px-4 rounded-md"
           >
             <FaTelegram className="text-xl mr-2" /> Telegram
